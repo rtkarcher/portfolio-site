@@ -1,0 +1,71 @@
+#page_box {
+		background:white;
+		margin:0 3% 0 3%; 
+		box-shadow:5px 5px 20px 10px #666666;
+	}
+/* Most smartphones (portrait + landscape orientations) */
+@media only screen and (min-device-width:320px) and (max-device-width:480px) {
+	#page_box {
+		background:white;
+		margin:0;
+		box-shadow:none;
+	}
+	body { 
+		background:white;
+	}
+}
+/* iPad (portrait + landscape) */
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) {
+	#page_box {
+		background:white;
+		margin:0;
+		box-shadow:none;
+	}
+	body { 
+		background:white;
+	}
+}
+/* iPad (landscape orientation only) */
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:landscape) {
+	#page_box {
+		background:white;
+		margin:0;
+		box-shadow:none;
+	}
+	body { 
+		background:white;
+	}
+}
+/* iPad (portrait orientation only) */
+@media only screen and (min-device-width:768px) and (max-device-width:1024px) and (orientation:portrait) {
+	#page_box {
+		background:white;
+		margin:0;
+		box-shadow:none;
+	}
+	body { 
+		background:white;
+	}
+}
+/* iPhone 4 */
+@media only screen and (-webkit-min-device-pixel-ratio : 1.5), only screen and (min-device-pixel-ratio : 1.5) {
+	#page_box {
+		background:white;
+		margin:0;
+		box-shadow:none;
+	}
+	body { 
+		background:white;
+	}
+}
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-width:320px) and (max-width:480px) {
+	#page_box {
+		background:white;
+		margin:0;
+		box-shadow:none;
+	}
+	body { 
+		background:white;
+	}
+}
