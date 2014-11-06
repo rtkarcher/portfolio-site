@@ -10,6 +10,7 @@
     <title>Rainer Karcher</title>
 
     <!-- Bootstrap Core CSS -->
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 
     <!-- Custom CSS -->
