@@ -1,8 +1,11 @@
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="Rainer Karcher" />
+	<meta name="contact" content="hello@rainerkarcher.com" />
+	<meta name="copyright" content="Copyright (c)2014 Rainer Karcher. All Rights Reserved." />
+	<meta name="description" content="Rainer Karcher is a web developer and Linux systems administrator based in Kansas City, MO." />
+	<meta name="keywords" content="rainer karcher, web development, web design, html, css, mysql, javascript, php, linux, developer, wizards" />
     
     <!-- Bootstrap Core JS/jQuery Libraries -->
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
@@ -47,7 +50,7 @@ $(document).ready(function(){
     <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top" role="navigation" style="background-color: #496e74; color:#ffffff;">
         <div class="container">
-            <!-- Brand and toggle get grouped for better mobile display -->
+        	<!-- Grouping brand and toggle together for better mobile display -->
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-navtoggle-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span>
@@ -65,8 +68,8 @@ $(document).ready(function(){
 	                <li><a href="blog" target="_blank">Blog</a></li>
 				    <li><a href="#contact-modal" class="btn">Contact</a></li>
                 </ul>
-            </div> <!-- /.navbar-collapse -->
-        </div> <!-- /.container -->
+            </div> <!-- End .navbar-collapse -->
+        </div> <!-- End .container -->
     </nav>    
     
     <div id="page_box">
