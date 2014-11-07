@@ -1,4 +1,7 @@
 /* Contact Modal */
+#contact-modal {
+  margin:10%;
+}
 .modal-open {
   overflow: hidden;
 }
@@ -15,6 +18,9 @@
   -webkit-overflow-scrolling: touch;
   outline: 0;
 }
+.modal h1, h2, h3, h4, h5, p {
+  font-weight:500;
+ }
 .modal.fade .modal-dialog {
   -webkit-transform: translate(0, -25%);
   -ms-transform: translate(0, -25%);
