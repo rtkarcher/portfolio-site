@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="icon" type="image/ico" href="http://rainerkarcher.com/bootstrap/img/leaf_wormhole.png"/>    
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="Rainer Karcher" />
+	<meta name="contact" content="hello@rainerkarcher.com" />
+	<meta name="copyright" content="Copyright (c)2014 Rainer Karcher. All Rights Reserved." />
+	<meta name="description" content="Rainer Karcher is a web developer and Linux systems administrator based in Kansas City, MO." />
+	<meta name="keywords" content="rainer karcher, web development, web design, html, css, mysql, javascript, php, linux, developer, wizards" />
+<!--<link rel="icon" type="image/ico" href=""/>-->   
     <title>Rainer Karcher</title>
 
     <!-- Bootstrap Core CSS -->
@@ -20,9 +23,6 @@
     <!-- Custom Fonts -->
     <link rel="stylesheet" type="text/css" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic">
-    
-    <!-- jQuery Version 1.11.0 -->
-    <script type="text/javascript" src="js/jquery-1.11.0.js"></script>
     
     <!-- jQuery Version 1.11.1 -->
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
