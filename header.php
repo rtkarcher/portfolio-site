@@ -93,4 +93,8 @@ $(document).ready(function(){
                 </div>
             </div>
         </div>
-    </div>
+    </div>     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div> <!-- .modal-content -->
+        </div> <!-- End .modal-dialog -->
+    </div> <!-- End Contact Modal -->

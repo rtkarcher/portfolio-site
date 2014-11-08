@@ -5651,4 +5651,8 @@ button.close {
   .hidden-print {
     display: none !important;
   }
+}{
+  .hidden-print {
+    display: none !important;
+  }
 }

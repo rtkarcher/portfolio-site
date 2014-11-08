@@ -63,4 +63,17 @@
 	body { 
 		background:white;
 	}
+}landscape) */
+@media only screen and (min-width:320px) and (max-width:480px) {
+	#page_box {
+		background:white;
+		margin:0;
+		box-shadow:none;
+	}
+	#page_box p {
+	  font-weight:500;
+	}
+	body { 
+	  background:white;
+	}
 }
