@@ -122,10 +122,12 @@
 /* Page Content Box (ultimately, this needs to be incorporated into content.css) */
 #page_box {
   background:white;
-  margin:0 3% 0 3%; 
+  margin:0 3% 25% 3%; 
+  padding-bottom:25%;
   box-shadow:5px 5px 20px 10px #666666;
-}hadow:5px 5px 20px 10px #666666;
 }
 #page_box p {
   font-weight:500;
 }
+
+/* Nautilus stuff should be here, too; work on that */
