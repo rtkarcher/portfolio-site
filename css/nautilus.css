@@ -54,4 +54,9 @@ img.color {
 img.color:hover {
   opacity: .5;
   cursor: pointer;
+}acity .3s linear;
+}
+img.color:hover {
+	opacity: .5;
+	cursor: pointer;
 }
