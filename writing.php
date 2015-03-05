@@ -120,4 +120,24 @@
 </html>x -->
 
 </body>
+</html><img class="example-image" style="width: 28rem; height: 18rem;" src="img/work/w/s9.png" alt="" class="img-responsive" /></a>
+                    <div class="caption">
+						 <h4>
+			  			   <span class="label label-success">[ Interactive ]</span>    
+			  			   <span class="label label-danger">[ In Progress ]</span> 
+						 </h4><br />
+                        <p>Interactive timeline of ancient Chinese history, drawing information and media from archival sources and current historical research.<br /><br /><br /></p>
+                    </div> <!-- End .caption -->
+                </div> <!-- End .thumbnail -->
+            </div> <!-- End .col-md-4 -->
+
+
+
+
+
+
+</div>		<!-- .container end -->
+</div>		<!-- End #page_box -->
+
+</body>
 </html>

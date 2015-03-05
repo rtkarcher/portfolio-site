@@ -98,4 +98,4 @@ $(document).ready(function(){
             </div> <!-- .modal-content -->
         </div> <!-- End .modal-dialog -->
     </div> <!-- End Contact Modal -->!-- End .modal-dialog -->
-    </div> <!-- End Contact Modal -->
+    </div> <!-- End Contact Modal --> -->
