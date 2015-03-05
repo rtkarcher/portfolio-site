@@ -34,4 +34,37 @@ a{
 .image-row{}
 .image-set {
 	margin-left:6%;
+}ackground-color:#C2D1E0;
+	line-height:0;
+	-webkit-transition:background-color 0.1s ease-out;
+	-moz-transition:background-color 0.1s ease-out;
+	-o-transition:background-color 0.1s ease-out;
+	transition:background-color 0.1s ease-out
+}
+.doc-image-link:hover{
+	background-color:#568188;
+	-webkit-transition:background-color 0;
+	-moz-transition:background-color 0;
+	-o-transition:background-color 0;
+	transition:background-color 0
+}
+.doc-image{
+	width:20rem;
+	height:8rem;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	-ms-border-radius:5px;
+	-o-border-radius:5px;
+	border-radius:3px
+}
+
+
+
+a{
+	color:#568180;
+	text-decoration:none;
+}
+.image-row{}
+.image-set {
+	margin-left:6%;
 }

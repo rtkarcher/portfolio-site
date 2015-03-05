@@ -23,4 +23,6 @@
 
 <!-- Custom JS/jQuery Libraries -->
 <script type="text/javascript" src="js/bootstrap.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>om JS/jQuery Libraries -->
+<script type="text/javascript" src="js/bootstrap.js"></script>
 <script type="text/javascript" src="js/bootstrap.min.js"></script>

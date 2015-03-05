@@ -129,4 +129,33 @@ If you're ever feeling froggy, you can try plugging the coordinates into the <a 
 
 
 </body>
+</html>smia.org/art-of-asia/history/images/maps/china-n-sung-large.gif" target="_blank">Northern Song Dynasty</a></li>
+    <li><a href="http://archive.artsmia.org/art-of-asia/history/images/maps/china-s-sung-large.gif" target="_blank">Southern Song Dynasty</a></li>
+    <li><a href="" target="_blank"></a></li>
+    <li><a href="" target="_blank"></a></li>
+    <li><a href="" target="_blank"></a></li>
+    <li><a href="" target="_blank"></a></li>
+  </ul>
+  <br /><br />
+
+  <p>These already look amazing, so I'm really on the fence about bothering to re-render them interactively. Pretend these don't exist for now:</p>
+  <ul>
+    <li><a href="http://rainerkarcher.com/js/timeline-js/img/map_IanKiu_warring_states_350_BCE_1.png" target="_blank">Warring States</a></li>
+    <li><a href="http://rainerkarcher.com/js/timeline-js/img/map_IanKiu_qin_dynasty.png" target="_blank">Qin Dynasty</a></li>
+    <li><a href="http://rainerkarcher.com/js/timeline-js/img/map_IanKiu_han_dynasty.png" target="_blank">Han Dynasty</a></li>
+    <li><a href="http://rainerkarcher.com/js/timeline-js/img/map_IanKiu_three_kingdoms.png" target="_blank">Three Kingdoms</a></li>
+    <li><a href="http://rainerkarcher.com/js/timeline-js/img/map_IanKiu_Eastern_Jin_Dynasty_376_CE.png" target="_blank">Jin Dynasty</a></li>
+    <li><a href="http://rainerkarcher.com/js/timeline-js/img/map_IanKiu_Northern_and_Southern_Dynasties_560_CE.png" target="_blank">Period of Northern/Southern Dynasties</a></li>
+    <li><a href="http://rainerkarcher.com/js/timeline-js/img/map_IanKiu_sui_dynasty_581_CE.png" target="_blank">Sui Dynasty</a> :: This one is beautiful, but seems to conflict with a few of the maps I've seen from university resources, so I have doubts...</li>
+    <li><a href="http://rainerkarcher.com/js/timeline-js/img/map_IanKiu_Tang_Dynasty_circa_700_CE.png" target="_blank">Tang Dynasty</a></li>
+    <li><a href="http://rainerkarcher.com/js/timeline-js/img/map_IanKiu_Five_Dynasties_Ten_Kingdoms_923_CE.png" target="_blank">Five Dynasties</a></li>
+    <li><a href="http://rainerkarcher.com/js/timeline-js/img/map_IanKiu_Song_Dynasty_1141.png" target="_blank">Northern/Southern Song Dynasties</a> :: Meh, doesn't actually differentiate between the two</li>
+    <li><a href="" target="_blank"></a></li>
+    <li><a href="" target="_blank"></a></li>
+    <li><a href="" target="_blank"></a></li>
+  </ul>
+</div> <!-- End #images -->
+</div> <!-- End .container -->
+
+</body>
 </html>

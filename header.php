@@ -97,4 +97,5 @@ $(document).ready(function(){
                 </div>
             </div> <!-- .modal-content -->
         </div> <!-- End .modal-dialog -->
+    </div> <!-- End Contact Modal -->!-- End .modal-dialog -->
     </div> <!-- End Contact Modal -->
