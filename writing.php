@@ -117,4 +117,7 @@
 </div>		<!-- End #page_box -->
 
 </body>
+</html>x -->
+
+</body>
 </html>
