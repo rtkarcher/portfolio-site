@@ -104,4 +104,17 @@
 </div>		<!-- End #page_box -->
 
 </body>
+</html>></p>
+                    </div> <!-- End .caption -->
+                </div> <!-- End .thumbnail -->
+            </div> <!-- End .col-md-4 -->
+        </ul> <!-- End .thumbnails -->
+    </div> <!-- End .row -->
+
+
+
+</div>		<!-- .container end -->
+</div>		<!-- End #page_box -->
+
+</body>
 </html>
